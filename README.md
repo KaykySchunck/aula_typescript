@@ -16,10 +16,9 @@ console.log(mensagem);</code></pre>
 <code>tsc exemplo.ts</code>
 <p>Isso criará um arquivo <strong>exemplo.js</strong> que pode ser executado no Node.js ou em um navegador.</p>
 
-Materiais de Ensino
-
-<h3> -> Lógica de Programação </h3>
-   <p> -> Variáveis </p>
-   <p> -> Controladores de Fluxo </p>
-   <p> -> Funções </p>
-   <p> -> Progamação orientada a Objeto (POO) </p>
+<h3> Materiais de Ensino </h3>
+   <h3> -> Lógica de Programação </h3>
+      <p> -> Variáveis </p>
+      <p> -> Controladores de Fluxo </p>
+      <p> -> Funções </p>
+      <p> -> Progamação orientada a Objeto (POO) </p>
