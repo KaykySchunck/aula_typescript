@@ -24,7 +24,7 @@ console.log(mensagem);</code></pre>
       <p> -> Progamação orientada a Objeto (POO) </p>
 
 
-<h2>---------------------------------COMANDOS GITHUB------------------------------------------</h2>
+<h2>---------------------------------COMANDOS GITHUB-----------------------------</h2>
       
 <h2>Estruturando o Projeto TypeScript</h2>
 
