@@ -24,8 +24,9 @@ console.log(mensagem);</code></pre>
       <p> -> Progamação orientada a Objeto (POO) </p>
 
 
-      ---------------------------------COMANDOS GITHUB------------------------------------------
-      <h2>Estruturando o Projeto TypeScript</h2>
+<h2>---------------------------------COMANDOS GITHUB------------------------------------------</h2>
+      
+<h2>Estruturando o Projeto TypeScript</h2>
 
 <h3>1. Criando o Repositório no GitHub</h3>
 <p>Para criar o repositório no GitHub:</p>
